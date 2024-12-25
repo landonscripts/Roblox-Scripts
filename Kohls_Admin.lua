@@ -1,4 +1,4 @@
-banned = {"Players you hate"}
+banned = {"rock48staz"}
 for _,p in pairs(game.Players:GetChildren()) do
    for _,v in pairs(banned) do
       if p.Name==v then
